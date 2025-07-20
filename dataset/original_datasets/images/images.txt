@@ -1,0 +1,2 @@
+Download "train_images" to this file from: 
+https://www.kaggle.com/competitions/petfinder-adoption-prediction/data?select=train_images

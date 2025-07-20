@@ -1,0 +1,7 @@
+Due to their sizes, the following files are demo:
+1. image_data.pkl
+2. image.npy
+3. labels.npy
+
+To generate the real files
+run the following script: dataset/original_datasets/convert_images_to_pkl.py

@@ -1,0 +1,32 @@
+# Core ML Packages
+numpy
+pandas
+scikit-learn
+joblib
+xgboost
+scipy
+
+# Deep Learning & Transformers
+torch
+transformers
+torchvision
+open-clip-torch
+
+# Computer Vision
+opencv-python
+scikit-image
+Pillow
+
+# Visualization
+matplotlib
+seaborn
+
+# Progress Bars
+tqdm
+
+# Utilities
+datetime  # built-in, not required for pip
+os        # built-in, not required for pip
+logging   # built-in
+warnings  # built-in
+
