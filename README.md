@@ -109,9 +109,8 @@ Pet_Adoption_Prediction/
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd ML_FP_As_uploaded_to_GITHUB
-```
+git clone https://github.com/OriGoldfrydCS/Pet_Adoption_Prediction.git
+cd Pet_Adoption_Prediction
 
 2. Install dependencies:
 ```bash
