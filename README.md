@@ -32,7 +32,7 @@ The goal is to predict how quickly a pet will be adopted based on various featur
 > - **TD** = Text Data 
 > - **ID** = Image Data
 
-The target variable is Adoption Speed which is mapped to 4 classes:
+The target variable is adoption speed which is mapped to 4 classes:
 - **Class 0**: Fast adoption (0-7 days)
 - **Class 1**: Medium adoption (8-30 days) 
 - **Class 2**: Slow adoption (31-90 days)
