@@ -89,8 +89,8 @@ Pet_Adoption_Prediction/
 |                           | TF-IDF + SVM                 | **Trimodal Models**       | CNN + MLP                    |
 |                           | TF-IDF + XGBoost             |                           | CNN + MLP + Attention        |
 |                           | TF-IDF + KNN                 |                           | CNN + MLP + RoBERTa          |
-|                           | BERT + MLP                   |                           | CNN + Attention + MLP        |
-|                           | BERT + CNN                   |                           | CLIP + MLP                   |
+|                           | BERT + MLP                   |                           |                              |
+|                           | BERT + CNN                   |                           |                              |
 |                           | BERT + BiLSTM                |                           |                              |
 
 
