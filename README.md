@@ -78,31 +78,21 @@ Pet_Adoption_Prediction/
 
 ## Model Categories
 
-| **Category**              | **Model**                    |
-|---------------------------|------------------------------|
-| **Baseline Model**        | Model 0                      |
-| **Structured Data Models**| KNN                          |
-|                           | SVM                          |
-|                           | XGBoost                      |
-|                           | AdaBoost                     |
-| **Text Models**           | TF-IDF + Logistic Regression |
-|                           | TF-IDF + SVM                 |
-|                           | TF-IDF + XGBoost             |
-|                           | TF-IDF + KNN                 |
-|                           | BERT + MLP                   |
-|                           | BERT + CNN                   |
-|                           | BERT + BiLSTM                |
-| **Image Models**          | CNN                          |
-|                           | ResNet18                     |
-|                           | VGG                          |
-| **Bimodal Models**        | CNN + Logistic Regression    |
-|                           | CNN + LSTM                   |
-|                           | CNN + MLP                    |
-| **Trimodal Models**       | CNN + MLP                    |
-|                           | CNN + MLP + Attention        |
-|                           | CNN + MLP + RoBERTa          |
-|                           | CNN + Attention + MLP        |
-|                           | CLIP + MLP                   |
+| **Category**              | **Model**                    | **Category**              | **Model**                    |
+|---------------------------|------------------------------|---------------------------|------------------------------|
+| **Baseline Model**        | Model 0                      | **Image Models**          | CNN                          |
+| **Structured Data Models**| KNN                          |                           | ResNet18                     |
+|                           | SVM                          |                           | VGG                          |
+|                           | XGBoost                      | **Bimodal Models**        | CNN + Logistic Regression    |
+|                           | AdaBoost                     |                           | CNN + LSTM                   |
+| **Text Models**           | TF-IDF + Logistic Regression |                           | CNN + MLP                    |
+|                           | TF-IDF + SVM                 | **Trimodal Models**       | CNN + MLP                    |
+|                           | TF-IDF + XGBoost             |                           | CNN + MLP + Attention        |
+|                           | TF-IDF + KNN                 |                           | CNN + MLP + RoBERTa          |
+|                           | BERT + MLP                   |                           | CNN + Attention + MLP        |
+|                           | BERT + CNN                   |                           | CLIP + MLP                   |
+|                           | BERT + BiLSTM                |                           |                              |
+
 
 
 ## Installation
