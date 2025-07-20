@@ -192,4 +192,4 @@ This project follows a modular structure where each model type is self-contained
 
 ## License
 
-See LICENSE file for details.
+See `LICENSE` file for details.
